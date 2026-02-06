@@ -18,23 +18,6 @@ The project is designed to reflect **real-world fintech and trading analytics**,
 
 ---
 
-## Repository Structure
-
-.
-├── notebook.ipynb
-├── data/
-│ ├── historical_data.csv
-│ └── fear_greed_index.csv
-├── outputs/
-│ ├── daily_account_metrics.csv
-│ └── account_segments.csv
-└── README.md
-
-
-> If your notebook has a different name (e.g., `Primetrade2project.ipynb`), either rename it to `notebook.ipynb` or update references accordingly.
-
----
-
 ## Requirements
 
 - Python 3.9+ (3.10 / 3.11 recommended)
